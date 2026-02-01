@@ -1,0 +1,30 @@
+# Maven
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Dados gerados (grandes)
+data/
+teste2/data/
+
+# Manter estrutura (opcional)
+!teste2/data/input/.gitkeep
+!teste2/data/output/.gitkeep
+!teste2/data/temp/.gitkeep
+
+# dados gerados
+data/
+teste2/data/
+
+# build/IDE
+target/
+.idea/
+*.iml
+*.zip
+
+# opcional: manter só o CADOP (se você quiser versionar ele)
+!teste2/data/input/Relatorio_cadop.csv
+
+
