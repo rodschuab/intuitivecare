@@ -27,4 +27,6 @@ target/
 # opcional: manter só o CADOP (se você quiser versionar ele)
 !teste2/data/input/Relatorio_cadop.csv
 
+application.properties
+*.env
 

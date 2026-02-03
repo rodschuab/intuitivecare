@@ -1,0 +1,7 @@
+# PostgreSQL connection (example)
+spring.datasource.url=jdbc:postgresql://localhost:5432/intuitivecare
+spring.datasource.username=postgres
+spring.datasource.password=CHANGE_ME
+
+# Optional (not required for Test 3)
+spring.datasource.driver-class-name=org.postgresql.Driver
